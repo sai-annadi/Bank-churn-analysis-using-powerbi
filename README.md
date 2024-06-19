@@ -1,1 +1,1 @@
-# bank-churn-analysis-using-powerbi
+# Bank-churn-analysis-using-powerbi
